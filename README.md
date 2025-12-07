@@ -1,10 +1,7 @@
+## game Demo
+
 ![Image](https://github.com/user-attachments/assets/e26f4be0-2fcb-481d-8cb3-ba698fecbdc0)
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/temp/1
 
 ## Run Locally
 
