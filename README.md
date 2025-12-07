@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="800" alt="Demo Aplikasi Berbentuk GIF" src="assets/demo-singkat.gif" />
-</div>
+![Image](https://github.com/user-attachments/assets/e26f4be0-2fcb-481d-8cb3-ba698fecbdc0)
 
 # Run and deploy your AI Studio app
 
